@@ -1,0 +1,111 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    background-color: rgb(255, 255, 255);
+  }
+  .row {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  }
+  #col1 {
+    background-color: rgb(43, 226, 58);
+    float: left;
+    border: 5px solid white;
+    height: 40px;
+  }
+  #col2 {
+    background-color: rgb(255, 0, 0);
+    float: left;
+    border: 5px solid white;
+    min-height: 600px;
+    min-height: 80px;
+    justify-content: left;
+  }
+  #col3 {
+    background-color: rgb(179, 8, 185);
+    float: left;
+    border: 5px solid white;
+    min-height: 50px;
+  }
+  #col4 {
+    background-color: rgba(231, 141, 5, 0.849);
+    float: left;
+    border: 5px solid white;
+    min-height: 160px;
+  }
+  #col5 {
+    background-color: rgba(231, 141, 5, 0.849);
+    float: left;
+    border: 5px solid white;
+    height: 300px;
+  
+  }
+  #col6 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col7 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  
+  #col8 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    min-height: 160px;
+  }
+  #col9 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col10 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col11 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col12 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col13 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    min-height: 160px;
+  }
+  #col14 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col15 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col16 {
+    background-color: rgb(43, 226, 58);
+    float: left;
+    border: 5px solid white;
+    min-height: 50px;
+  }

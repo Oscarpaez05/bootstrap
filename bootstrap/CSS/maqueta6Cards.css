@@ -1,24 +1,21 @@
-
+body {
+    background-color: #A0ECD0;
+}
 #col1{
     float: left;
-    background-color: #93C0A4;
 }
 #colc1{
     float: left;
-    background-color: #93C0A4;
 }
 #colc2{
     float: left;
-    background-color: 93C0A4;
 }
 #colc3{
     float: left;
-
 }
 #colc4{
     float: left;
-    color: #93C0A4;
-}   
+}
 #colc5{
     float: left;
 }
@@ -29,65 +26,96 @@
 }
 #colcc1{
     position: absolute;
-    background-color: #B6C4A2;
+    background-color: #A0ECD0;
     margin: 50px;
 }
-
 #colc6 {
     text-align: center;
-    float: left;
-    background-color: #93C0A4;
 }
 #colc7 {
     text-align: center;
-    float: left;
-    background-color: #93C0A4;
 }
 #colc8 {
     text-align: center;
-    float: left;
-    background-color: #93C0A4;
 }
 #colc9 {
     text-align: center;
-    float: left;
-    background-color: #93C0A4;
 }
 #colc10 {
     text-align: center;
-    float: left;
-    background-color: #93C0A4;
 }
 #colc11 {
     text-align: center;
-    float: left;
-    background-color: #93C0A4;
 }
 #colc12 {
     text-align: center;
-    float: left;
-    background-color: #93C0A4;
 }
 #colc13 {
     text-align: center;
-    float: left;
-    background-color: #93C0A4;
 }
 #colcc2 {
     position: absolute;
-    color: #B6C4A2;
+    color: white;
     text-align: center;
 }
 #colcc3 {
     position: absolute;
-    color: #B6C4A2;
-    margin: 50px;
+    color: saddlebrown;
 }
 #colcc4 {
     position: absolute;
-    color: #B6C4A2;
-    margin: 50px;
+    color: saddlebrown;
 }
-#pa {
-    font-family: 'Courier New', Courier, monospace;
+#mod1 {
+    float: left;
+}
+#mod2 {
+    float: left;
+}
+#button1 {
+    float: right;
+}
+#form {
+    width: 250px;
+    margin: 0 auto;
+    height: 50px;
+  }
+  
+  #form p {
+    text-align: center;
+  }
+  
+  #form label {
+    font-size: 20px;
+  }
+  
+  input[type="radio"] {
+    display: none;
+  }
+  
+  label {
+    color: grey;
+  }
+  
+  .clasificacion {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+  }
+  
+  label:hover,
+  label:hover ~ label {
+    color: orange;
+  }
+  
+  input[type="radio"]:checked ~ label {
+    color: orange;
+  }
+  .card {
+    text-align: center;
+} 
+  #col-5 {
+    background-color: aqua;
+}
+#s {
+    background-color: #0BC9CD;
 }
